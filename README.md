@@ -40,5 +40,4 @@ Step 5:
 To view the high Scores, you can click on "View High Scores" to see past and present scores.
 
 ## Website
-
-HEY FIRST GIT COMMIT EVERYTHING ONTO GITHUB. THEN LIVE THE SITE, THEN EDIT ON HERE TO PASTE LIVE SITE HERE, THEN GIT PUSH, THEN SUBMIT LINKS TO GITHUB REPO AND SITE ON CANVAS!!!!!!!!!!
+https://acarroll413.github.io/Web-APIs-Challenge-Code-Quiz/
